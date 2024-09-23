@@ -1,8 +1,8 @@
 # Auth-service
-A kutumbita auth micro-service for authentication and authorization
+An auth micro-service for authentication and authorization
 
 ## Technologies
-- Django 2.1
+- Django 5
 - DRF 3.9
 - Redis 3.0.1
 - PyJWT 1.6.4
